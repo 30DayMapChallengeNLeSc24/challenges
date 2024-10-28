@@ -1,0 +1,498 @@
+slug,name,website,ror,country,city,lat,lng,is_tennant
+ruhr-university-bochum,Ruhr University Bochum,https://www.ruhr-uni-bochum.de,https://ror.org/04tsk2644,Germany,Bochum,51.48165,7.21648,false
+nationaal-archief-suriname,Nationaal Archief Suriname,http://www.nationaalarchief.sr/,null,null,null,null,null,false
+livingpastnu,Livingpast.nu,https://www.livingpast.nu/,null,null,null,null,null,false
+municipality-of-almada,Municipality of Almada,https://www.alamada.gov.ph/,null,null,null,null,null,false
+danmarks-pelagiske-producentorganisation,Danmarks Pelagiske Producentorganisation,https://www.dppo.dk/,null,null,null,null,null,false
+stony-brook-university,Stony Brook University,http://www.stonybrook.edu/,https://ror.org/05qghxh33,United States,Stony Brook,40.92565,-73.14094,false
+rukakeskus-oy,Rukakeskus Oy,https://www.ruka.fi/en/skiresort/rukakeskus,null,null,null,null,null,false
+moveshelf-bv,Moveshelf b.v.,https://moveshelf.com/,null,null,null,null,null,false
+lexisnexis,LexisNexis,https://www.lexisnexis.nl/,null,null,null,null,null,false
+synerscope,SynerScope,https://www.synerscope.com/about/,null,null,null,null,null,false
+cat4smr,CAT4SMR,https://cat4smr.humanities.uva.nl,null,null,null,null,null,false
+digital-methods-initiative,Digital Methods Initiative,https://digitalmethods.net,null,null,null,null,null,false
+nextmove-software,NextMove Software,https://www.nextmovesoftware.com/,null,null,null,null,null,false
+oilab,OILab,https://oilab.eu,null,null,null,null,null,false
+dalhousie-university,Dalhousie University,http://www.dal.ca/,https://ror.org/01e6qks80,Canada,Halifax,44.64269,-63.57688,false
+university-of-milan,University of Milan,http://www.unimi.it/ENG/,https://ror.org/00wjc7c48,Italy,Milan,45.46427,9.18951,false
+university-of-geneva,University of Geneva,https://www.unige.ch/,https://ror.org/01swzsf04,Switzerland,Geneva,46.20222,6.14569,false
+lawrence-berkeley-national-laboratory,Lawrence Berkeley National Laboratory,http://www.lbl.gov/,https://ror.org/02jbv0t02,United States,Berkeley,37.87159,-122.27275,false
+amsterdam-university-medical-centers,Amsterdam University Medical Centers,https://www.amsterdamumc.org,https://ror.org/05grdyy37,Netherlands,Amsterdam,52.37403,4.88969,true
+ku-leuven,KU Leuven,http://www.kuleuven.be/english,https://ror.org/05f950310,Belgium,Leuven,50.87959,4.70093,false
+scottish-association-for-marine-science,Scottish Association For Marine Science,http://www.sams.ac.uk/,https://ror.org/04ke6ht85,United Kingdom,Oban,56.41535,-5.47184,false
+open-university-in-the-netherlands,Open University in the Netherlands,https://www.ou.nl/,https://ror.org/018dfmf50,Netherlands,Heerlen,50.87905,5.95931,false
+university-of-applied-sciences-utrecht,University of Applied Sciences Utrecht,http://www.english.hu.nl/,https://ror.org/028z9kw20,Netherlands,Utrecht,52.09083,5.12222,false
+health-holland,Health Holland,https://www.health-holland.com/,https://ror.org/056cwr036,Netherlands,The Hague,52.07667,4.29861,false
+atos-france,Atos (France),http://fr.atos.net/fr-fr/accueil.html,https://ror.org/015w2wb33,France,Bezons,48.924587,2.221059,false
+ministry-of-health-welfare-and-sport,Ministry of Health Welfare and Sport,http://www.government.nl/ministries/vws,https://ror.org/041evnj42,Netherlands,The Hague,52.07667,4.29861,false
+university-of-cambridge,University of Cambridge,http://www.cam.ac.uk/,https://ror.org/013meh722,United Kingdom,Cambridge,52.2,0.11667,false
+american-museum-of-natural-history,American Museum of Natural History,http://www.amnh.org/,https://ror.org/03thb3e06,United States,New York,40.71427,-74.00597,false
+university-of-udine,University of Udine,http://www.uniud.it/en/uniud-international?set_language=en,https://ror.org/05ht0mh31,Italy,Udine,46.0693,13.23715,false
+sorbonne-universite,Sorbonne Université,https://www.sorbonne-universite.fr/,https://ror.org/02en5vm52,France,Paris,48.85341,2.3488,false
+ministry-of-infrastructure-and-water-management,Ministry of Infrastructure and Water Management,https://www.government.nl/ministries/ministry-of-infrastructure-and-water-management,https://ror.org/056a6x975,Netherlands,The Hague,52.07667,4.29861,false
+vrije-universiteit-amsterdam-technology-centre,Vrije Universiteit Amsterdam Technology Centre,https://vu.nl/en/about-vu/research-institutes/technology-centre,null,null,null,null,null,false
+netbeheer-nederland,Netbeheer Nederland,https://www.netbeheernederland.nl/,null,null,null,null,null,false
+stedin,Stedin,https://www.stedin.net,null,null,null,null,null,false
+ignition-computing,Ignition Computing,https://ignitioncomputing.com/,null,null,null,null,null,false
+aimms,AIMMS,https://www.aimms.com/,null,null,null,null,null,false
+porous-materials-engineering-and-analysis-lab,Porous Materials Engineering and Analysis Lab ,http://pmeal.com/,null,null,null,null,null,false
+university-of-cologne,University of Cologne,http://www.portal.uni-koeln.de/,https://ror.org/00rcxh774,Germany,Cologne,50.93333,6.95,false
+leids-universitair-medisch-center,Leids Universitair Medisch Center,null,null,Netherlands,null,null,null,false
+fluxys-belgium,Fluxys Belgium,https://www.fluxys.com,null,Belgium,null,null,null,false
+sesvanderhave,SESVanderHave,null,null,Belgium,null,null,null,false
+dnv-gl, DNV GL,https://www.dnv.com/,https://ror.org/004r4ve77,Netherlands,Rotterdam,51.9225,4.47917,false
+tata-steel,TATA Steel,https://www.tatasteeleurope.com/,https://ror.org/00925cq50,Netherlands,Velsen,51.629084,4.87641,false
+nederlandse-gasunie-netherlands,Nederlandse Gasunie (Netherlands),https://www.gasunie.nl/en/,https://ror.org/01r5d6p07,Netherlands,Groningen,53.20103,6.550742,false
+liander-netherlands,Liander (Netherlands),https://www.liander.nl/,https://ror.org/011asxc61,Netherlands,Arnhem,51.98,5.91111,false
+university-of-copenhagen,University of Copenhagen,http://www.ku.dk/english/,https://ror.org/035b05819,Denmark,Copenhagen,55.67594,12.56553,false
+poznan-supercomputing-and-networking-center,Poznan Supercomputing and Networking Center,https://www.psnc.pl/,https://ror.org/025cj6e44,Poland,Poznan,52.40692,16.92993,false
+university-of-bergen,University of Bergen,http://www.uib.no/,https://ror.org/03zga2b32,Norway,Bergen,60.39299,5.32415,false
+university-of-cantabria,University of Cantabria,http://web.unican.es/,https://ror.org/046ffzj20,Spain,Santander,43.46472,-3.80444,false
+united-nations-educational-scientific-and-cultural-organization,"United Nations Educational, Scientific and Cultural Organization",http://en.unesco.org/,https://ror.org/04h4z8k05,France,Paris,48.85341,2.3488,false
+linkoping-university,Linköping University,https://liu.se/,https://ror.org/05ynxx418,Sweden,Linköping,58.41086,15.62157,false
+international-institute-for-applied-systems-analysis,International Institute for Applied Systems Analysis,http://www.iiasa.ac.at/,https://ror.org/02wfhk785,Austria,Laxenburg,48.06833,16.35607,false
+university-of-trento,University of Trento,http://www.unitn.it/en,https://ror.org/05trd4x28,Italy,Trento,46.06787,11.12108,false
+institute-of-geomatics-boku,"Institute of Geomatics, BOKU",https://www.boku.ac.at/en/rali/geomatics,https://ror.org/057ff4y42,Austria,Vienna,48.20849,16.37208,false
+ministry-of-education-culture-and-science,Ministry of Education Culture and Science,http://www.government.nl/ministries/ocw,https://ror.org/02x3w5g21,Netherlands,The Hague,52.080509,4.322199,false
+university-of-sheffield,University of Sheffield,http://www.sheffield.ac.uk/,https://ror.org/05krs5044,United Kingdom,Sheffield,53.38297,-1.4659,false
+laboratoire-dannecy-le-vieux-de-physique-des-particules,Laboratoire d'Annecy-le-Vieux de Physique des Particules,http://lapp.in2p3.fr/?lang=en,https://ror.org/049nhh297,France,Annecy,45.90878,6.12565,false
+naturalis-biodiversity-center,Naturalis Biodiversity Center,http://www.naturalis.nl/,https://ror.org/0566bfb96,Netherlands,Leiden,52.15833,4.49306,false
+university-of-leeds,University of Leeds,http://www.leeds.ac.uk/,https://ror.org/024mrxd33,United Kingdom,Leeds,53.79648,-1.54785,false
+university-of-vienna,University of Vienna,https://www.univie.ac.at/en/,https://ror.org/03prydq77,Austria,Vienna,48.20849,16.37208,false
+european-research-council,European Research Council,http://erc.europa.eu/,https://ror.org/0472cxd90,Belgium,Brussels,50.85045,4.34878,false
+tu-wien,TU Wien,https://www.tuwien.at,https://ror.org/04d836q62,Austria,Vienna,48.20849,16.37208,false
+ghent-university,Ghent University,https://www.ugent.be/en,https://ror.org/00cv9y106,Belgium,Ghent,51.05,3.71667,false
+european-university-institute,European University Institute,http://www.eui.eu/,https://ror.org/0031wrj91,Italy,Florence,43.77925,11.24626,false
+meopar-incorporated,MEOPAR Incorporated,https://meopar.ca,null,Canada,null,null,null,false
+birds-canada,Birds Canada,https://www.oiseauxcanada.org/,null,Canada,null,null,null,false
+research-institute-of-the-mcgill-university-health-center,Research Institute of the McGill University Health Center,https://muhc.ca/research,null,Canada,null,null,null,false
+the-hospital-for-sick-children,The Hospital for Sick Children,https://www.sickkids.ca/,null,Canada,null,null,null,false
+islandora-foundation,Islandora Foundation,https://www.islandora.ca/,null,Canada,null,null,null,false
+cybera,Cybera,https://www.cybera.ca/,null,Canada,null,null,null,false
+digital-research-alliance-of-canada,Digital Research Alliance of Canada,https://alliancecan.ca,https://ror.org/010r6td27,Canada,Ottawa,45.41117,-75.69812,true
+university-health-network,University Health Network,http://www.uhn.ca/,https://ror.org/042xt5161,Canada,Toronto,43.70011,-79.4163,false
+ouranos,Ouranos,http://ouranos.ca/en/,https://ror.org/0565gth98,Canada,Montreal,45.506339,-73.572411,false
+university-of-guelph,University of Guelph,http://www.uoguelph.ca/,https://ror.org/01r7awg59,Canada,Guelph,43.54594,-80.25599,false
+university-of-saskatchewan,University of Saskatchewan,https://www.usask.ca/,https://ror.org/010x8gc63,Canada,Saskatoon,52.13238,-106.66892,false
+canadas-michael-smith-genome-sciences-centre,Canada's Michael Smith Genome Sciences Centre,http://www.bcgsc.ca/,https://ror.org/0333j0897,Canada,Vancouver,49.24966,-123.11934,false
+computer-research-institute-of-montreal,Computer Research Institute of Montréal,http://www.crim.ca/en/,https://ror.org/0279d5115,Canada,Montreal,45.50884,-73.58781,false
+walter-and-duncan-gordon-foundation,Walter and Duncan Gordon Foundation,http://gordonfoundation.ca/,https://ror.org/02gvqsb68,Canada,Toronto,43.70011,-79.4163,false
+ontario-institute-for-cancer-research,Ontario Institute for Cancer Research,http://oicr.on.ca/,https://ror.org/043q8yx54,Canada,Toronto,43.70011,-79.4163,false
+indoc-research,Indoc Research,http://www.indocresearch.org/,https://ror.org/03maf3k43,Canada,Toronto,43.651873,-79.370524,false
+canarie,Canarie,http://www.canarie.ca/,https://ror.org/01nztpc84,Canada,Ottawa,45.41117,-75.69812,true
+concordia-university,Concordia University,https://www.concordia.ca/,https://ror.org/0420zvk78,Canada,Montreal,45.50884,-73.58781,false
+university-of-calgary,University of Calgary,http://www.ucalgary.ca/,https://ror.org/03yjb2x39,Canada,Calgary,51.05011,-114.08529,false
+queens-university,Queen's University,http://www.queensu.ca/,https://ror.org/02y72wh86,Canada,Kingston,44.22976,-76.48098,false
+university-of-british-columbia,University of British Columbia,https://www.ubc.ca/,https://ror.org/03rmrcq20,Canada,Vancouver,49.24966,-123.11934,false
+simon-fraser-university,Simon Fraser University,http://www.sfu.ca/,https://ror.org/0213rcc28,Canada,Burnaby,49.26636,-122.95263,false
+mcgill-university,McGill University,http://www.mcgill.ca/,https://ror.org/01pxwe438,Canada,Montreal,45.50884,-73.58781,false
+carleton-university,Carleton University,http://www.carleton.ca/,https://ror.org/02qtvee93,Canada,Ottawa,45.41117,-75.69812,false
+university-of-ottawa,University of Ottawa,http://www.uottawa.ca/en,https://ror.org/03c4mmv16,Canada,Ottawa,45.41117,-75.69812,false
+mcgill-centre-for-integrative-neuroscience,McGill Centre for Integrative Neuroscience,https://mcin.ca/,null,Canada,null,null,null,false
+arctic-institute-of-north-america,arctic institute of north america,https://arctic.ucalgary.ca/,null,Canada,null,null,null,false
+phenotips,PhenoTips,https://phenotips.com/index.html,null,Canada,null,null,null,false
+nationaal-archief-curacao,Nationaal Archief Curaçao,https://www.nationaalarchief.cw/,null,Curaçao,null,null,null,false
+esiwace,ESiWACE,null,null,Europe,null,null,null,false
+clarin,CLARIN,null,null,Europe,null,null,null,false
+process,PROCESS,null,null,Europe,null,null,null,false
+european-media-laboratory-germany,European Media Laboratory (Germany),https://www.eml.org/,https://ror.org/02rbfgr17,Germany,Heidelberg,49.418817,8.675859,false
+university-of-victoria,University of Victoria,http://www.uvic.ca/,https://ror.org/04s5mat29,Canada,Victoria,48.4359,-123.35155,false
+university-of-waterloo,University of Waterloo,https://uwaterloo.ca/,https://ror.org/01aff2v68,Canada,Waterloo,43.4668,-80.51639,false
+university-of-alberta,University of Alberta,http://ualberta.ca/,https://ror.org/0160cpw27,Canada,Edmonton,53.55014,-113.46871,false
+university-of-toronto,University of Toronto,http://www.utoronto.ca/,https://ror.org/03dbr7087,Canada,Toronto,43.70643,-79.39864,false
+atacama-large-millimetersubmillimeter-array,Atacama Large Millimeter/Submillimeter Array,null,https://ror.org/01adx8c71,Chile,Santiago,-33.400537,-70.599787,false
+lawson-health-research-institute,Lawson Health Research Institute,https://www.lawsonresearch.com/,https://ror.org/051gsh239,Canada,London,43.00014,-81.2543,false
+ontario-brain-institute,Ontario Brain Institute,http://www.braininstitute.ca/homepage,https://ror.org/05ecdew94,Canada,Toronto,43.70011,-79.4163,false
+university-of-manitoba,University of Manitoba,http://umanitoba.ca/,https://ror.org/02gfys938,Canada,Winnipeg,49.8844,-97.14704,false
+universite-de-sherbrooke,Université de Sherbrooke,http://www.usherbrooke.ca/,https://ror.org/00kybxq39,Canada,Sherbrooke,45.40008,-71.89908,false
+university-of-curacao,University of Curaçao,http://www.uoc.cw/,https://ror.org/02a46nr93,Curacao,Willemstad,12.12246,-68.88641,false
+institute-of-atmospheric-physics,Institute of Atmospheric Physics,http://english.iap.cas.cn/au,https://ror.org/0424h4e32,China,Beijing,39.9075,116.39723,false
+charles-university,Charles University,http://www.cuni.cz/UKENG-1.html,https://ror.org/024d6js02,Czechia,Prague,50.08804,14.42076,false
+ustav-informatiky,Ustav Informatiky,null,https://ror.org/04jgqpc26,Slovakia,Bratislava,48.153998,17.071929,false
+technical-university-of-denmark,Technical University of Denmark,http://www.dtu.dk/english,https://ror.org/04qtj9h94,Denmark,Kongens Lyngby,55.77044,12.50378,false
+danish-meteorological-institute,Danish Meteorological Institute,http://ocean.dmi.dk/english/,https://ror.org/020m6x732,Denmark,Copenhagen,55.67594,12.56553,false
+european-network-for-cyber-security,European Network for Cyber Security,https://encs.eu/,https://ror.org/0584wbt59,Netherlands,The Hague,52.069239,4.349306,false
+fortum-finland,Fortum (Finland),https://www.fortum.com,https://ror.org/03nx8tr59,Finland,Espoo,60.164626,24.736285,false
+csc-it-center-for-science-finland,CSC - IT Center for Science (Finland),https://www.csc.fi/,https://ror.org/04m8m1253,Finland,Espoo,60.2052,24.6522,false
+centraal-bureau-voor-de-statistiek,Centraal Bureau voor de Statistiek,http://www.cbs.nl/en-GB/menu/home/default.htm?Languageswitch=on,https://ror.org/0408v4c28,Netherlands,The Hague,52.066217,4.399404,false
+university-of-antwerp,University of Antwerp,https://www.uantwerpen.be/en/,https://ror.org/008x57b05,Belgium,Antwerp,51.222729,4.40843,false
+comite-de-donnees-pour-la-science-et-la-technologie,Comité de données pour la science et la technologie,https://www.codata.org/,null,France,null,null,null,false
+latest-thinking,Latest Thinking,https://lt.org/,null,Germany,null,null,null,false
+foresight-intelligence-johannes-gabriel-und-martin-frohlich-gbr,Foresight Intelligence Johannes Gabriel und Martin Fröhlich GbR,https://www.foresightintelligence.de/,null,Germany,null,null,null,false
+lufthansa-systems,Lufthansa Systems,null,null,Germany,null,null,null,false
+university-of-connecticut-health-center,University of Connecticut Health Center,http://www.uchc.edu/,https://ror.org/02kzs4y22,United States,Farmington,41.71982,-72.83204,false
+university-of-lapland,University of Lapland,http://www.ulapland.fi/InEnglish,https://ror.org/05jzt8766,Finland,Rovaniemi,66.5,25.71667,false
+mercator-ocean-france,Mercator Ocean (France),http://www.mercator-ocean.fr/,https://ror.org/02754py23,France,Ramonville-Saint-Agne,43.55054,1.485693,false
+atomic-energy-and-alternative-energies-commission,Atomic Energy and Alternative Energies Commission,http://www.cea.fr/,https://ror.org/00jjx8s55,France,Paris,48.85341,2.3488,false
+inserm,Inserm,https://www.inserm.fr,https://ror.org/02vjkv261,France,Paris,48.85341,2.3488,false
+iter,ITER,http://www.iter.org/,https://ror.org/01d7n9638,France,Vinon-sur-Verdon,43.72484,5.81168,false
+meteo-france,Météo-France,http://www.meteofrance.com/accueil,https://ror.org/0233st365,France,Toulouse,43.60426,1.44367,false
+dlr,DLR,https://www.dlr.de,https://ror.org/04bwf3e34,Germany,Cologne,50.93333,6.95,false
+institut-national-de-linformation-geographique-et-forestiere,Institut national de l’information géographique et forestière,http://www.ign.fr/,https://ror.org/05jxfge78,France,Paris,48.85341,2.3488,false
+max-planck-society,Max Planck Society,http://www.mpg.de/en,https://ror.org/01hhn8329,Germany,Munich,48.13743,11.57549,false
+universitat-hamburg,Universität Hamburg,http://www.uni-hamburg.de/,https://ror.org/00g30e956,Germany,Hamburg,53.55073,9.99302,false
+cnrs,CNRS,https://www.cnrs.fr/en,https://ror.org/02feahw73,France,Paris,48.85341,2.3488,false
+dkrz,DKRZ,https://www.dkrz.de/en,https://ror.org/03ztgj037,Germany,Hamburg,53.55073,9.99302,false
+max-planck-institute-of-animal-behavior,Max Planck Institute of Animal Behavior,https://www.mpg.de/987894/verhaltensbiologie,https://ror.org/026stee22,Germany,Radolfzell,47.768104,8.996387,false
+bmw-group,BMW Group,https://www.bmwgroup.com/en.html,https://ror.org/044kkbh92,Germany,Munich,48.198191,11.601917,false
+siemens,Siemens,https://www.siemens.com/,https://ror.org/02mt4w922,Netherlands,Amsterdam,52.084371,4.335145,false
+tata-memorial-centre,Tata Memorial Centre,null,https://ror.org/010842375,India,Mumbai,19.07283,72.88261,false
+otto-von-guericke-university-magdeburg,Otto-von-Guericke University Magdeburg,http://www.ovgu.de/unimagdeburg/en/Otto+von+Guericke+University+Magdeburg.html,https://ror.org/00ggpsq73,Germany,Magdeburg,52.12773,11.62916,false
+fraunhofer,Fraunhofer,null,https://ror.org/05hkkdn48,Germany,Munich,48.13743,11.57549,false
+max-planck-institute-for-brain-research,Max Planck Institute for Brain Research,https://brain.mpg.de/home,https://ror.org/02h1nk258,Germany,Frankfurt am Main,50.17437,8.629819,false
+vitens,Vitens,https://www.vitens.nl/,null,null,null,null,null,false
+medizinische-hochschule-hannover,Medizinische Hochschule Hannover,https://www.mhh.de,https://ror.org/00f2yqf98,Germany,Hanover,52.37052,9.73322,false
+quantum-application-lab,Quantum Application Lab,https://quantumapplicationlab.com/,null,null,null,null,null,false
+cmmc-cultivated-meat-modeling-consortium,CMMC - Cultivated Meat Modeling Consortium,https://thecmmc.org,null,Global,null,null,null,false
+hafrannsoknastofnunin,Hafrannsoknastofnunin,https://www.hafogvatn.is/,null,Iceland,null,null,null,false
+fields-of-view,Fields of View,null,null,India,null,null,null,false
+technische-universitat-braunschweig,Technische Universität Braunschweig,null,https://ror.org/010nsgg66,Germany,Braunschweig,52.26594,10.52673,false
+max-planck-institute-for-meteorology,Max Planck Institute for Meteorology,http://www.mpimet.mpg.de/en/home.html,https://ror.org/05esem239,Germany,Hamburg,53.567794,9.975468,false
+helmholtz-zentrum-hereon,Helmholtz-Zentrum Hereon,https://hereon.de,https://ror.org/03qjp1d79,Germany,Geesthacht,53.43575,10.3779,false
+forschungszentrum-julich,Forschungszentrum Jülich,https://www.fz-juelich.de,https://ror.org/02nv7yv05,Germany,Jülich,50.92149,6.36267,false
+ludwig-maximilian-university-of-munich,Ludwig Maximilian University of Munich,https://www.en.uni-muenchen.de/index.html,https://ror.org/05591te55,Germany,Munich,48.13743,11.57549,false
+university-of-erlangen-nuremberg,University of Erlangen-Nuremberg,https://www.fau.de/,https://ror.org/00f7hpc57,Germany,Erlangen,49.59099,11.00783,false
+humboldt-universitat-zu-berlin,Humboldt-Universität zu Berlin,https://www.hu-berlin.de/en,https://ror.org/01hcx6992,Germany,Berlin,52.52437,13.41053,false
+helmholtz-centre-for-environmental-research,Helmholtz Centre for Environmental Research,http://www.ufz.de/index.php?de=11385,https://ror.org/000h6jb29,Germany,Leipzig,51.33962,12.37129,false
+potsdam-institute-for-climate-impact-research,Potsdam Institute for Climate Impact Research,https://www.pik-potsdam.de/,https://ror.org/03e8s1d88,Germany,Potsdam,52.381282,13.064152,false
+friedrich-schiller-university-jena,Friedrich Schiller University Jena,https://www.uni-jena.de/en,https://ror.org/05qpz1x62,Germany,Jena,50.92878,11.5899,false
+alfred-wegener-institute,Alfred Wegener Institute,https://www.awi.de/en.html,https://ror.org/032e6b942,Germany,Bremerhaven,53.53615,8.59298,false
+university-of-bremen,University of Bremen,https://www.uni-bremen.de,https://ror.org/04ers2y35,Germany,Bremen,53.07582,8.80717,false
+gerda-henkel-foundation,Gerda Henkel Foundation,https://www.gerda-henkel-stiftung.de/,https://ror.org/0584kkb18,Germany,Düsseldorf,51.230678,6.788875,false
+helmholtz-zentrum-dresden-rossendorf,Helmholtz-Zentrum Dresden-Rossendorf,https://www.hzdr.de,https://ror.org/01zy2cs03,Germany,Dresden,51.05089,13.73832,false
+imbb-forth,IMBB-FORTH,https://www.imbb.forth.gr/en/,https://ror.org/01gzszr18,Greece,Heraklion,35.3175499,25.0675351,false
+research-data-alliance,Research Data Alliance,https://www.rd-alliance.org/,https://ror.org/05dc6w374,Ireland,Dublin,53.360713,-6.251516,false
+university-of-potsdam,University of Potsdam,https://www.uni-potsdam.de/en/,https://ror.org/03bnmw459,Germany,Potsdam,52.39886,13.06566,false
+university-of-iceland,University of Iceland,null,https://ror.org/01db6h964,Iceland,Reykjavik,64.13548,-21.89541,false
+indian-institute-of-science-bangalore,Indian Institute of Science Bangalore,http://www.iisc.ernet.in/,https://ror.org/04dese585,India,Bengaluru,13.021275,77.565769,false
+ec-earth,EC-Earth,https://github.com/EC-Earth,null,International,null,null,null,false
+interdisciplinary-physics-team,Interdisciplinary Physics Team (InPhyT),https://github.com/InPhyT,null,International,null,null,null,true
+eli-lilly-united-states,Eli Lilly (United States),http://www.lilly.com/,https://ror.org/01qat3289,United States,Indianapolis,39.76838,-86.15804,false
+openda,OpenDA,http://www.openda.org/,null,International,null,null,null,false
+openms,OpenMS,https://www.openms.de/,null,International,null,null,null,false
+potree,Potree,http://potree.org,null,International,null,null,null,false
+blue-action,Blue Action,null,null,International,null,null,null,false
+common-workflow-language,Common Workflow Language,https://www.commonwl.org,null,International,null,null,null,false
+energy-reform-limited,Energy Reform Limited,https://energyreform.ie,null,Ireland,null,null,null,false
+piedmont-epidemiological-service-sepi,Piedmont Epidemiological Service (SEPI),https://www.epi.piemonte.it/,null,Italy,null,null,null,false
+4dr-lab,4DR Lab,https://4dresearchlab.nl/,null,Netherlands,null,null,null,false
+eneco,Eneco,https://www.eneco.nl/,null,Netherlands,null,null,null,false
+kadaster,Kadaster,https://www.kadaster.nl/about-us,null,Netherlands,null,null,null,false
+intel-india,Intel (India),http://www.intel.in/,https://ror.org/04f2n1245,India,Bengaluru,12.926928,77.684336,false
+university-college-dublin,University College Dublin,http://www.ucd.ie/,https://ror.org/05m7pjf47,Ireland,Dublin,53.33306,-6.24889,false
+cmcc,CMCC,https://www.cmcc.it/,https://ror.org/01tf11a61,Italy,Lecce,40.35481,18.17244,false
+istituto-italiano-di-tecnologia,Istituto Italiano di Tecnologia,https://www.iit.it/,https://ror.org/042t93s57,Italy,Genoa,44.40478,8.94439,false
+university-of-turin,University of Turin,http://en.unito.it/,https://ror.org/048tbm396,Italy,Turin,45.07049,7.68682,false
+koninklijk-nederlands-instituut-in-rome,Koninklijk Nederlands Instituut in Rome,http://www.knir.it/,https://ror.org/05v6zeb66,Italy,Rome,41.9127129,12.4672137,false
+fondazione-bruno-kessler,Fondazione Bruno Kessler,http://www.fbk.eu/,https://ror.org/01j33xk10,Italy,Trento,46.06787,11.12108,false
+national-institute-for-astrophysics,National Institute for Astrophysics,null,https://ror.org/02gh4kt33,Italy,Rome,41.89193,12.51133,false
+netherlands-institute-for-sound-and-vision,Netherlands Institute for Sound and Vision,http://www.beeldengeluid.nl/,https://ror.org/025ae8628,Netherlands,Hilversum,52.22333,5.17639,false
+inter-psy,Inter-Psy,https://inter-psy.nl/,https://ror.org/03yew7168,Netherlands,Groningen,53.207542,6.580879,false
+lorentz-center,Lorentz Center,http://www.lorentzcenter.nl/,https://ror.org/00d503m77,Netherlands,Leiden,52.15833,4.49306,false
+the-abdus-salam-international-centre-for-theoretical-physics,The Abdus Salam International Centre for Theoretical Physics,https://www.ictp.it/,https://ror.org/009gyvm78,Italy,Trieste,45.64953,13.77678,false
+okinawa-institute-of-science-and-technology-graduate-university,Okinawa Institute of Science and Technology Graduate University,http://www.oist.jp/,https://ror.org/02qg15b79,Japan,Onna Son,26.47595,127.85278,false
+politecnico-milano,Politecnico Milano,null,https://ror.org/01nffqt88,Italy,Milan,45.46427,9.18951,false
+universite-de-montreal,Université de Montréal,http://www.umontreal.ca/english/,https://ror.org/0161xgx34,Canada,Montreal,45.50884,-73.58781,false
+agroenergy,AgroEnergy,https://www.agro-energy.nl/,null,Netherlands,null,null,null,false
+research-data-management,Research Data Management,https://www.amsterdamumc.org/en/research-support/data-management.htm,null,Netherlands,null,null,null,false
+national-oceanography-centre,National Oceanography Centre,https://noc.ac.uk,https://ror.org/00874hx02,United Kingdom,Southampton,50.90395,-1.40428,false
+accelting,Accelting,https://www.accelting.com/,null,Netherlands,null,null,null,false
+stichting-democratie-en-media,Stichting Democratie en Media,https://www.stdem.org/en/,null,Netherlands,null,null,null,false
+pdissh,PDISSH,https://pdi-ssh.nl/en/front-page/,null,Netherlands,null,null,null,false
+environment-and-climate-change-canada,Environment and Climate Change Canada,https://www.canada.ca/en/environment-climate-change.html,https://ror.org/026ny0e17,Canada,Gatineau,45.425373,-75.699862,false
+memic,MEMIC,https://www.maastrichtuniversity.nl/about-um/other-offices/memic/about-memic,null,Netherlands,null,null,null,true
+monetdb,monetdb,null,null,Netherlands,null,null,null,false
+phortos,Phortos,null,null,Netherlands,null,null,null,false
+donders-institute,Donders Institute,https://www.ru.nl/donders/,null,Netherlands,null,null,null,false
+meijer,Meijer,null,null,Netherlands,null,null,null,false
+huygens-ing,Huygens Instituut,https://www.huygens.knaw.nl/,https://ror.org/04x6kq749,Netherlands,Amsterdam,52.37403,4.88969,false
+cbs-knaw-fungal-biodiversity-centre,CBS-KNAW Fungal Biodiversity Centre,http://www.cbs.knaw.nl/,https://ror.org/030a5r161,Netherlands,Utrecht,52.09083,5.12222,false
+cwi,CWI,http://www.cwi.nl/,https://ror.org/00x7ekv49,Netherlands,Amsterdam,52.37403,4.88969,false
+surf,SURF,https://www.surf.nl/,https://ror.org/009vhk114,Netherlands,Utrecht,52.09083,5.12222,false
+software-for-chemicals-materials,Software for Chemicals & Materials,null,https://ror.org/025tsch51,Netherlands,Amsterdam,52.332993,4.865608,false
+radboud-university-nijmegen,Radboud University Nijmegen,http://www.ru.nl/,https://ror.org/016xsfp80,The Netherlands,Nijmegen,51.8425,5.85278,false
+commit,COMMIT,http://www.commit-nl.nl/,https://ror.org/031m0hs53,Netherlands,Amsterdam,52.35458,4.955932,false
+ortec,Ortec,https://ortec.com/en,https://ror.org/05wx9za24,France,Paris,43.476436,5.372175,false
+nederlands-forensisch-instituut,Nederlands Forensisch Instituut,http://www.nederlandsforensischinstituut.nl/,https://ror.org/04s2z4291,Netherlands,The Hague,52.04464,4.35875,false
+vortech,VORtech,https://www.vortech.nl/en/,https://ror.org/00fxhtz28,Netherlands,Delft,52.002884,4.353465,false
+netherlands-cancer-institute-nki,Netherlands Cancer Institute (NKI),https://www.nki.nl/,https://ror.org/03xqtf034,The Netherlands,Amsterdam,52.37403,4.88969,false
+rijk-zwaan,Rijk Zwaan,null,https://ror.org/00dzkep57,Netherlands,De Lier,51.973183,4.255522,false
+thehyve,thehyve,http://thehyve.nl,https://ror.org/00p3egw50,Netherlands,Utrecht,52.0823986,5.1175699,false
+data-archiving-and-networked-services-dans,Data Archiving and Networked Services (DANS),http://www.dans.knaw.nl,https://ror.org/008pnp284,Netherlands,The Hague,52.080818,4.345575,false
+universite-du-quebec-a-trois-rivieres,Université du Québec à Trois-Rivières,http://www.uqtr.ca/,https://ror.org/02xrw9r68,Canada,Trois-Rivières,46.34515,-72.5477,false
+australian-earth-system-simulator,Australian Earth-System Simulator,https://www.access-nri.org.au,https://ror.org/03qhv9c02,Australia,Canberra,-35.28346,149.12807,false
+pelagic-freezer-trawler-association,Pelagic Freezer Trawler Association,https://www.pelagicfish.eu/,null,Netherlands,null,null,null,false
+centraal-bureau-fondsenwerving,Centraal Bureau Fondsenwerving,https://www.cbf.nl/,null,Netherlands,null,null,null,false
+clariah,CLARIAH,https://www.clariah.nl,null,Netherlands,null,null,null,false
+centerdata,Centerdata,https://www.centerdata.nl/,null,Netherlands,null,null,null,false
+surfnet,SURFnet,null,null,Netherlands,null,null,null,false
+erfgoed-leiden-en-omstreken,Erfgoed Leiden en Omstreken,https://www.erfgoedleiden.nl/,null,Netherlands,null,null,null,false
+gemeente-maastricht,Gemeente Maastricht,https://www.gemeentemaastricht.nl/,null,Netherlands,null,null,null,false
+geodan,Geodan,http://www.geodan.com,null,Netherlands,null,null,null,false
+niod-institute-for-war-holocaust-and-genocide-studies,"NIOD Institute for War, Holocaust and Genocide Studies",http://www.niod.nl/,https://ror.org/05he87q93,Netherlands,Amsterdam,52.368916,4.886349,false
+differ,DIFFER,https://www.differ.nl/,https://ror.org/03w5dn804,Netherlands,Eindhoven,51.44083,5.47778,false
+dutch-research-council,Dutch Research Council,http://www.nwo.nl/,https://ror.org/04jsz6e67,Netherlands,The Hague,52.07667,4.29861,false
+philips,Philips,null,https://ror.org/02p2bgp27,Netherlands,Amsterdam,52.37403,4.88969,false
+hartstichting,Hartstichting,https://www.hartstichting.nl,https://ror.org/05nxhgm70,Netherlands,The Hague,52.07667,4.29861,false
+nikhef,NIKHEF,http://www.nikhef.nl/,https://ror.org/00f9tz983,Netherlands,Amsterdam,52.37403,4.88969,false
+nationaal-archief-of-the-netherlands,Nationaal Archief of the Netherlands,http://www.nationaalarchief.nl/,https://ror.org/0546dmt59,Netherlands,The Hague,52.081475,4.326382,false
+bejo,Bejo,https://www.bejo.com/,https://ror.org/046v1a544,Netherlands,Schagen,52.726732,4.733806,false
+dutch-techcenter-for-life-sciences,Dutch Techcenter for Life Sciences,http://www.dtls.nl,https://ror.org/055d8gs64,Netherlands,Utrecht,52.089736,5.114174,false
+netherlands-organisation-for-health-research-and-development,Netherlands Organisation for Health Research and Development,http://www.zonmw.nl/en/,https://ror.org/01yaj9a77,Netherlands,The Hague,52.07667,4.29861,false
+university-of-twente,University of Twente,https://www.utwente.nl/,https://ror.org/006hf6230,Netherlands,Enschede,52.21833,6.89583,true
+nizo,NIZO,null,https://ror.org/05ddg7v64,Netherlands,Ede,52.052118,5.662516,false
+tennet-tso,TenneT TSO,https://www.tennet.eu/,https://ror.org/02dyts510,Netherlands,Arnhem,51.98,5.91111,false
+fugro,Fugro,http://www.fugro.nl/,https://ror.org/054hq4w78,Netherlands,Voorburg,52.07417,4.35972,false
+deltares,Deltares,http://www.deltares.nl,https://ror.org/01deh9c76,Netherlands,Delft,52.00667,4.35556,false
+royal-haskoningdhv,Royal HaskoningDHV,null,https://ror.org/020v32r42,Netherlands,Amersfoort,52.1331569,5.3667083,false
+jive,JIVE,null,https://ror.org/006dmc180,Netherlands,Dwingeloo,52.813351,6.395999,false
+rijkswaterstaat,Rijkswaterstaat,https://www.rijkswaterstaat.nl/,https://ror.org/0355ahf06,Netherlands,Utrecht,52.09083,5.12222,false
+koninklijke-luchtmacht,Koninklijke Luchtmacht,https://www.defensie.nl/organisatie/luchtmacht,null,Netherlands,null,null,null,false
+liacs-leiden-university,"LIACS, Leiden University",https://liacs.leidenuniv.nl/,null,Netherlands,null,null,null,false
+museum-van-bommel-van-dam,Museum van Bommel van Dam,https://www.vanbommelvandam.nl/,null,Netherlands,null,null,null,false
+kings-college-london,King's College London,http://www.kcl.ac.uk/index.aspx,https://ror.org/0220mzb33,United Kingdom,London,51.50853,-0.12574,false
+nederlands-mijnmuseum,Nederlands Mijnmuseum,https://www.nederlandsmijnmuseum.nl/,null,Netherlands,null,null,null,false
+neo,NEO,https://www.neo.nl/,null,Netherlands,null,null,null,false
+swi-prolog-solutions-bv,SWI-Prolog Solutions b.v.,http://swi-prolog.com/about.html,null,Netherlands,null,null,null,false
+monetdb-solutions,MonetDB Solutions,http://monetdbsolutions.com/,null,Netherlands,null,null,null,false
+gemeente-utrecht,Gemeente Utrecht,https://www.utrecht.nl/,null,Netherlands,null,null,null,false
+maritime-research-institute-netherlands,Maritime Research Institute Netherlands,null,https://ror.org/01fkbmk11,Netherlands,Wageningen,52.032336,5.632812,false
+maastricht-university-medical-center,Maastricht University Medical Center+,null,https://ror.org/02d9ce178,Netherlands,Maastricht,50.84833,5.68889,false
+erasmus-university-rotterdam,Erasmus University Rotterdam,null,https://ror.org/057w15z03,Netherlands,Rotterdam,51.9225,4.47917,false
+delft-university-of-technology,Delft University of Technology,http://tudelft.nl,https://ror.org/02e2c7k09,Netherlands,Delft,52.00667,4.35556,false
+university-medical-center-utrecht,University Medical Center Utrecht,https://www.umcutrecht.nl/,https://ror.org/0575yy874,Netherlands,Utrecht,52.09083,5.12222,false
+iknl,IKNL,https://iknl.nl/,https://ror.org/03g5hcd33,Netherlands,Eindhoven,51.44083,5.47778,false
+utrecht-university,Utrecht University,http://www.uu.nl,https://ror.org/04pp8hn57,The Netherlands,Utrecht,52.09083,5.12222,true
+koninklijk-nederlands-meteorologisch-instituut,Koninklijk Nederlands Meteorologisch Instituut,http://www.knmi.nl/,https://ror.org/05dfgh554,Netherlands,De Bilt,52.11,5.18056,false
+royal-netherlands-institute-for-sea-research,Royal Netherlands Institute for Sea Research,https://www.nioz.nl/en,https://ror.org/01gntjh03,Netherlands,Den Burg,53.05417,4.79722,false
+surfsara,SURFsara,https://www.surf.nl/en/about-surf/subsidiaries/surfsara/,https://ror.org/01k0v6g02,Netherlands,Amsterdam,52.356731,4.954666,false
+tilburg-university,Tilburg University,null,https://ror.org/04b8v1s79,Netherlands,Tilburg,51.55551,5.0913,false
+university-of-amsterdam,University of Amsterdam,http://www.uva.nl,https://ror.org/04dkp9463,Netherlands,Amsterdam,52.37403,4.88969,false
+thermo-fisher-scientific-netherlands,Thermo Fisher Scientific (Netherlands),https://www.thermofisher.com/,https://ror.org/01139ec29,Netherlands,Eindhoven,51.46908,5.42141,false
+odissei,ODISSEI,https://odissei-data.nl/en/,https://ror.org/03m8v6t10,Netherlands,Rotterdam,51.915855,4.52618,false
+averis-seeds,Averis Seeds,null,https://ror.org/011v4dm73,Netherlands,Veendam,53.1065549,6.8695241,false
+leiden-university,Leiden University,https://www.universiteitleiden.nl/en/,https://ror.org/027bh9e22,Netherlands,Leiden,52.15833,4.49306,true
+maastricht-university,Maastricht University,https://www.maastrichtuniversity.nl,https://ror.org/02jz4aj89,Netherlands,Maastricht,50.84833,5.68889,true
+centre-for-digital-humanities,Centre for Digital Humanities,https://cdh.uu.nl/,null,Netherlands,null,null,null,false
+spinlab,SPINlab,https://spinlab.vu.nl,null,Netherlands,null,null,null,false
+knaw-humanities-cluster,KNAW Humanities Cluster,https://huc.knaw.nl/,null,Netherlands,null,null,null,false
+leiden-observatory,Leiden Observatory,https://www.universiteitleiden.nl/en/science/astronomy,null,Netherlands,null,null,null,false
+liacs-leiden-institute-of-advanced-computer-science,LIACS - Leiden Institute of Advanced Computer Science,https://liacs.leidenuniv.nl,null,Netherlands,null,null,null,false
+zefiros-software,Zefiros Software,https://zefiros.eu/,null,Netherlands,null,null,null,false
+nunhems,Nunhems,null,null,Netherlands,null,null,null,false
+fom,FOM,null,null,Netherlands,null,null,null,false
+hdc-centre-for-religious-history,HDC Centre for Religious History,https://www.hdcvu.nl,null,Netherlands,null,null,null,false
+waternet,Waternet,null,null,Netherlands,null,null,null,false
+vu-university-amsterdam,Vrije Universiteit Amsterdam,http://www.vu.nl/,https://ror.org/008xxew50,Netherlands,Amsterdam,52.37403,4.88969,false
+maastro,Maastro,null,https://ror.org/059wkzj26,Netherlands,Maastricht,50.836296,5.715083,false
+netherlands-metabolomics-institute,Netherlands Metabolomics Institute,https://www.metabolomicscentre.nl/,https://ror.org/00zh5wn98,Netherlands,Utrecht,52.089578,5.114142,false
+radboud-university-medical-center,Radboud University Medical Center,https://www.radboudumc.nl/,https://ror.org/05wg1m734,Netherlands,Nijmegen,51.8425,5.85278,false
+koninklijke-bibliotheek,Koninklijke Bibliotheek,http://www.kb.nl,https://ror.org/02w4jbg70,Netherlands,The Hague,52.07667,4.29861,false
+ministry-of-defence,Ministry of Defence,https://www.defensie.nl/,https://ror.org/0079deh61,Netherlands,The Hague,52.07667,4.29861,false
+tno,TNO,http://www.tno.nl/,https://ror.org/01bnjb948,Netherlands,Delft,52.00667,4.35556,false
+netherlands-space-office,Netherlands Space Office,http://www.spaceoffice.nl/en/,https://ror.org/01vb6q136,Netherlands,The Hague,52.081872,4.333238,false
+astron,ASTRON,http://www.astron.nl/,https://ror.org/000k1q888,Netherlands,Dwingeloo,52.83417,6.36944,false
+eindhoven-university-of-technology,Eindhoven University of Technology,https://www.tue.nl/en/,https://ror.org/02c2kyt77,Netherlands,Eindhoven,51.44083,5.47778,false
+wageningen-university-research,Wageningen University & Research,https://www.wur.nl/,https://ror.org/04qw24q55,Netherlands,Wageningen,51.97,5.66667,true
+erasmus-university-medical-center,Erasmus University Medical Center,https://www.erasmusmc.nl/,https://ror.org/018906e22,Netherlands,Rotterdam,51.9225,4.47917,false
+leiden-university-medical-center,Leiden University Medical Center,https://www.lumc.nl/,https://ror.org/05xvt9f17,Netherlands,Leiden,52.15833,4.49306,false
+university-of-groningen,University of Groningen,http://www.rug.nl/,https://ror.org/012p63287,Netherlands,Groningen,53.219443,6.562966,true
+amsterdam-university-medical-centers-location-vu,"Amsterdam University Medical Centers, location VU",null,https://ror.org/00q6h8f30,Netherlands,Amsterdam,52.37403,4.88969,false
+new-zealand-escience-infrastructure,New Zealand eScience Infrastructure (NeSI),https://www.nesi.org.nz/,https://ror.org/037aan677,New Zealand,Auckland,-36.856079,174.766553,true
+agence-nationale-de-la-recherche,Agence Nationale de la Recherche,http://www.agence-nationale-recherche.fr/en/project-based-funding-to-advance-french-research/,https://ror.org/00rbzpz17,France,Paris,48.845261,2.377769,false
+clearpeaks,ClearPeaks,https://www.clearpeaks.com,null,Spain,null,null,null,false
+lifewatch-eric,LifeWatch ERIC,null,null,Spain,null,null,null,false
+universidade-federal-de-santa-maria,Universidade Federal de Santa Maria,https://www.ufsm.br/,https://ror.org/01b78mz79,Brazil,Santa Maria,-29.713514,-53.716172,false
+stichting-voor-surinaamse-genealogie,Stichting voor Surinaamse Genealogie,https://www.surinaamsegenealogie.nl/,null,Suriname,null,null,null,false
+freie-universitat-berlin,Freie Universität Berlin,https://www.fu-berlin.de,https://ror.org/046ak2485,Germany,Berlin,52.52437,13.41053,false
+dnv-gl-norway,DNV GL (Norway),https://www.dnvgl.com/,https://ror.org/04c235406,Norway,Sandvika,59.89073,10.52774,false
+nansen-environmental-and-remote-sensing-center,Nansen Environmental and Remote Sensing Center,https://www.nersc.no/,https://ror.org/015th0q50,Russia,St Petersburg,59.93863,30.31413,false
+norwegian-research-centre,Norwegian Research Centre,https://www.norceresearch.no/en/,https://ror.org/02gagpf75,Norway,Bergen,60.39299,5.32415,false
+norwegian-meteorological-institute,Norwegian Meteorological Institute,http://met.no,https://ror.org/001n36p86,Norway,Oslo,59.91273,10.74609,false
+university-of-warsaw,University of Warsaw,http://en.uw.edu.pl/,https://ror.org/039bjqg32,Poland,Warsaw,52.22977,21.01178,false
+agh-university-of-science-and-technology,AGH University of Science and Technology,null,https://ror.org/00bas1c41,Poland,Krakow,50.06143,19.93658,false
+cicero-center-for-international-climate-research,CICERO Center for International Climate Research,null,https://ror.org/01gw5dy53,Norway,Oslo,59.91273,10.74609,false
+the-research-council-of-norway,The Research Council of Norway,http://www.forskningsradet.no/en/Home_page/1177315753906,https://ror.org/00epmv149,Norway,Oslo,59.91273,10.74609,false
+am-obukhov-institute-of-atmospheric-physics,A.M. Obukhov Institute of Atmospheric Physics,http://ifaran.ru/ras/view/organization/history.html?id=5193,https://ror.org/03snt1857,Russia,Moscow,55.774788,37.632378,false
+singapore-mit-alliance-for-research-and-technology,Singapore-MIT Alliance for Research and Technology,null,https://ror.org/05yb3w112,Singapore,Singapore,1.303895,103.773732,false
+university-of-belgrade,University of Belgrade,http://www.bg.ac.rs/en/,https://ror.org/02qsmb048,Serbia,Belgrade,44.80401,20.46513,false
+barcelona-supercomputing-center,Barcelona Supercomputing Center,https://www.bsc.es/,https://ror.org/05sd8tv96,Spain,Barcelona,41.38879,2.15899,false
+nanyang-technical-university,Nanyang Technical University,http://www.ntu.edu.sg,https://ror.org/02e7b5302,Singapore,Singapore,1.28967,103.85007,false
+national-institute-of-chemistry,National Institute of Chemistry,null,https://ror.org/050mac570,Slovenia,Ljubljana,46.05108,14.50513,false
+yonsei-university,Yonsei University,http://www.yonsei.ac.kr/eng/,https://ror.org/01wjejq96,South Korea,Seoul,37566,126.9784,false
+met-office,Met Office,https://www.metoffice.gov.uk,https://ror.org/01ch2yn61,United Kingdom,Exeter,50.7236,-3.52751,false
+inmark,INMARK,null,https://ror.org/01kkw3w51,Spain,Madrid,40.48964,-3.685813,false
+royal-institute-of-technology,Royal Institute of Technology,http://www.kth.se/en,https://ror.org/026vcq606,Sweden,Stockholm,59.32938,18.06871,false
+universitat-politecnica-de-valencia,Universitat Politècnica de València,http://www.upv.es,https://ror.org/01460j859,Spain,Valencia,39.47391,-0.37966,false
+university-of-the-basque-country,University of the Basque Country,http://www.ehu.eus/en/en-home,https://ror.org/000xsnr85,Spain,Leioa,43.32686,-2.98884,false
+sams-research-services-ltd,SAMS Research Services Ltd,https://www.srsl.com,null,United Kingdom,null,null,null,false
+hochschule-dusseldorf-university-of-applied-sciences,Hochschule Düsseldorf University of Applied Sciences,https://www.hs-duesseldorf.de/en,https://ror.org/00ftx0026,Germany,Düsseldorf,51.189516,6.795446,false
+activinsights-ltd,Activinsights Ltd,https://www.activinsights.com,null,United Kingdom,null,null,null,false
+ecmwf,ECMWF,https://www.ecmwf.int/,https://ror.org/014w0fd65,United Kingdom,Reading,51.45625,-0.97113,false
+marine-scotland,Marine Scotland,http://www.gov.scot/About/People/Directorates/marinescotland,https://ror.org/02kh2f959,United Kingdom,Edinburgh,57.155941,-2.084096,false
+eth-zurich,ETH Zurich,https://ethz.ch,https://ror.org/05a28rw58,Switzerland,Zurich,47.36667,8.55,false
+hesso-university-of-applied-sciences-and-arts,HES.SO University of Applied Sciences and Arts,null,https://ror.org/01xkakk17,Switzerland,Delémont,47.36493,7.34453,false
+imperial-college-london,Imperial College London,http://www.imperial.ac.uk,https://ror.org/041kmwe10,United Kingdom,London,51.50853,-0.12574,false
+city-university-of-london,City University of London,null,https://ror.org/04489at23,United Kingdom,London,51.50853,-0.12574,false
+university-of-oxford,University of Oxford,http://www.ox.ac.uk/,https://ror.org/052gg0110,United Kingdom,Oxford,51.75222,-1.25596,false
+university-of-glasgow,University of Glasgow,http://www.dcs.gla.ac.uk,https://ror.org/00vtgdb53,United Kingdom,Glasgow,55.86515,-4.25763,false
+university-of-southampton,University of Southampton,http://www.southampton.ac.uk/,https://ror.org/01ryk1543,United Kingdom,Southampton,50.90395,-1.40428,false
+university-college-london,University College London,https://www.ucl.ac.uk,https://ror.org/02jx3x895,United Kingdom,London,51.50853,-0.12574,false
+university-of-exeter,University of Exeter,null,https://ror.org/03yghzc09,United Kingdom,Exeter,50.7236,-3.52751,false
+heriot-watt-university,Heriot-Watt University,http://www.hw.ac.uk/,https://ror.org/04mghma93,United Kingdom,Edinburgh,55.95206,-3.19648,false
+university-of-sussex,University of Sussex,http://www.sussex.ac.uk/,https://ror.org/00ayhx656,United Kingdom,Brighton,50.82838,-0.13947,false
+university-of-edinburgh,University of Edinburgh,https://www.ed.ac.uk/,https://ror.org/01nrxwf90,United Kingdom,Edinburgh,55.95206,-3.19648,false
+university-of-leicester,University of Leicester,https://le.ac.uk,https://ror.org/04h699437,United Kingdom,Leicester,52.6386,-1.13169,false
+university-of-hull,University of Hull,http://www.hull.ac.uk/,https://ror.org/04nkhwh30,United Kingdom,Hull,53.7446,-0.33525,false
+culham-centre-for-fusion-energy,Culham Centre for Fusion Energy,http://www.ccfe.ac.uk/,https://ror.org/05nmyph15,United Kingdom,Abingdon,51.658773,-1.2282,false
+plymouth-marine-laboratory,Plymouth Marine Laboratory,https://www.plymouth.ac.uk/research/institutes/marine-institute,https://ror.org/05av9mn02,United Kingdom,Plymouth,50.37153,-4.14305,false
+natural-environment-research-council,Natural Environment Research Council,http://www.nerc.ac.uk/,https://ror.org/02b5d8509,United Kingdom,Swindon,51.55797,-1.78116,false
+mrc-epidemiology-unit,MRC Epidemiology Unit,http://www.mrc-epid.cam.ac.uk/,https://ror.org/052578691,United Kingdom,Cambridge,52.174803,0.134042,false
+university-of-reading,University of Reading,http://www.reading.ac.uk/,https://ror.org/05v62cm79,United Kingdom,Reading,51.45625,-0.97113,false
+wellcome-trust,Wellcome Trust,http://www.wellcome.ac.uk,https://ror.org/029chgv08,United Kingdom,London,51.50853,-0.12574,false
+oracle,Oracle,https://www.oracle.com/database/index.html,null,United States,null,null,null,false
+biocellion,Biocellion,https://biocellion.com/,null,United States,null,null,null,false
+ibm,IBM,null,https://ror.org/055yb9v95,Netherlands,Amsterdam,52.37403,4.88969,false
+university-of-washington,University of Washington,http://www.washington.edu/,https://ror.org/00cvxb145,United States,Seattle,47.60621,-122.33207,false
+hollings-marine-laboratory,Hollings Marine Laboratory,https://www.nist.gov/mml/hollings-marine-laboratory/hml-overview,https://ror.org/01hp6xm80,United States,Charleston,32.77657,-79.93092,false
+woods-hole-oceanographic-institution,Woods Hole Oceanographic Institution,http://www.whoi.edu/,https://ror.org/03zbnzt98,United States,Falmouth,41.5515,-70.61475,false
+qualcomm-united-states,Qualcomm (United States),https://www.qualcomm.com/,https://ror.org/002zrf773,United States,San Diego,32.895167,-117.195722,false
+electric-power-research-institute,Electric Power Research Institute,http://www.epri.com/Pages/Default.aspx,https://ror.org/02dqztz06,United States,Palo Alto,37.397026,-122.143741,false
+harvard-university,Harvard University,http://www.harvard.edu/,https://ror.org/03vek6s52,United States,Cambridge,42.3751,-71.10561,false
+university-corporation-for-atmospheric-research,University Corporation for Atmospheric Research,https://www2.ucar.edu/,https://ror.org/04zhhyn23,United States,Boulder,40.01499,-105.27055,false
+jhu,JHU,https://www.jhu.edu,https://ror.org/00za53h95,United States,Baltimore,39.29038,-76.61219,false
+massachusetts-university-of-technology,Massachusetts University of Technology,null,https://ror.org/042nb2s44,United States,Cambridge,42.3751,-71.10561,false
+scripps-research-institute,Scripps Research Institute,http://www.scripps.edu/,https://ror.org/02dxx6824,United States,San Diego,32.71571,-117.16472,false
+gladstone-institutes,Gladstone Institutes,http://gladstone.org/,https://ror.org/038321296,United States,San Francisco,37.768074,-122.394455,false
+university-of-notre-dame,University of Notre Dame,https://www.nd.edu/,https://ror.org/00mkhxb43,United States,Notre Dame,41.70019,-86.23793,false
+drexel-university,Drexel University,http://drexel.edu,https://ror.org/04bdffz58,United States,Philadelphia,39.95238,-75.16362,false
+virginia-tech,Virginia Tech,null,https://ror.org/02smfhw86,United States,Blacksburg,37.22957,-80.41394,false
+cornell-university,Cornell University,http://www.cornell.edu/,https://ror.org/05bnh6r87,United States,Ithaca,42.44063,-76.49661,false
+university-of-virginia,University of Virginia,http://www.virginia.edu/,https://ror.org/0153tk833,United States,Charlottesville,38.02931,-78.47668,false
+national-institute-of-standards-and-technology,National Institute of Standards and Technology,http://www.nist.gov/,https://ror.org/05xpvk416,United States,Gaithersburg,39.14344,-77.20137,false
+brigham-and-womens-hospital,Brigham and Women's Hospital,http://www.brighamandwomens.org/,https://ror.org/04b6nzv94,United States,Boston,42.35843,-71.05977,false
+colorado-state-university,Colorado State University,http://www.colostate.edu/,https://ror.org/03k1gpj17,United States,Fort Collins,40.58526,-105.08442,false
+fundacao-de-amparo-a-pesquisa-do-estado-da-bahia,Fundação de Amparo à Pesquisa do Estado da Bahia,http://www.fapesb.ba.gov.br/,https://ror.org/0473khm44,Brazil,Salvador,-13.007801,-38.512095,false
+princeton-university,Princeton University,https://www.princeton.edu,https://ror.org/00hx57361,United States,Princeton,40.34872,-74.65905,false
+medical-informatics,Medical Informatics,https://www.amc.nl/web/research-75/departments/medical-informatics-1.htm,null,null,null,null,null,false
+fraunhofer-institute-for-mechanics-of-materials,Fraunhofer Institute for Mechanics of Materials,https://www.iwm.fraunhofer.de/,https://ror.org/04hm8eb66,Germany,Freiburg im Breisgau,47.9959,7.85222,false
+national-council-for-scientific-and-technological-development,National Council for Scientific and Technological Development,http://www.cnpq.br/,https://ror.org/03swz6y49,Brazil,Brasília,-15.77972,-47.92972,false
+offshorewind4kids,OffshoreWind4Kids,https://www.offshorewind4kids.com/,null,null,null,null,null,false
+holland-home-of-wind-energy,Holland Home of Wind Energy,https://www.hhwe.eu/,null,null,null,null,null,false
+siemens-gamesa-renewable-energy,Siemens Gamesa Renewable Energy,https://www.siemensgamesa.com/en-int,null,null,null,null,null,false
+12-to-zero,12 To Zero,https://www.12tozero.com/,null,null,null,null,null,false
+seawind-ocean-technology-holding,Seawind Ocean Technology Holding,https://seawindtechnology.com/,null,null,null,null,null,false
+gustomsc,GustoMSC,https://www.gustomsc.com/,null,null,null,null,null,false
+port-of-amsterdam,Port of Amsterdam,https://www.portofamsterdam.com/en,null,null,null,null,null,false
+clare-county-council,Clare County Council,https://www.clarecoco.ie/,null,null,null,null,null,false
+nhtv-breda-university-of-applied-sciences,NHTV Breda University of Applied Sciences,https://www.nhtv.nl/ENG.html,https://ror.org/04mfj5474,Netherlands,Breda,51.58656,4.77596,false
+tki-offshore-wind-netherlands-wind-energy-association-nwea,"TKI Offshore Wind, Netherlands Wind Energy Association (NWEA)",https://www.nwea.nl/over-nwea/?lang=en,null,null,null,null,null,false
+stichting-de-noordzee-the-north-sea-foundation,Stichting De Noordzee (The North Sea Foundation),https://www.noordzee.nl/,null,null,null,null,null,false
+shannon-foynes-port-company,Shannon Foynes Port Company,https://www.sfpc.ie/,null,null,null,null,null,false
+campussea-cooperative,Campus@Sea Cooperative,https://www.campusatsea.nl/,null,null,null,null,null,false
+heerema-marine-contractors,Heerema Marine Contractors,https://www.heerema.com/heerema-marine-contractors,null,null,null,null,null,false
+bluewater-energy-services,Bluewater Energy Services,https://www.bluewater.com/,null,null,null,null,null,false
+physik-instrumente,Physik Instrumente,https://www.physikinstrumente.com/en/,null,null,null,null,null,false
+lunet-aan-de-snel-foundation,Lunet aan de Snel Foundation,https://www.lunetaandesnel.nl/,null,null,null,null,null,false
+oceans-of-energy,Oceans of Energy,https://oceansofenergy.blue/,null,null,null,null,null,false
+crosswind,CrossWind,https://www.crosswindhkn.nl/,null,null,null,null,null,false
+heerema-engineering-solutions,Heerema Engineering Solutions,https://www.heerema.com/heerema-engineering-solutions,null,null,null,null,null,false
+university-of-alaska-fairbanks,University of Alaska Fairbanks,http://www.uaf.edu/,https://ror.org/01j7nq853,United States,Fairbanks,64.83778,-147.71639,false
+shell-netherlands,Shell (Netherlands),http://www.shell.com/,https://ror.org/00b5m4j81,Netherlands,The Hague,52.07667,4.29861,false
+university-of-melbourne,University of Melbourne,http://www.unimelb.edu.au/,https://ror.org/01ej9dk98,Australia,Melbourne,-37814,144.96332,false
+national-institute-for-public-health-and-the-environment,National Institute for Public Health and the Environment,http://www.rivm.nl/en/,https://ror.org/01cesdt21,Netherlands,De Bilt,52.11,5.18056,false
+rotterdam-university-of-applied-sciences,Rotterdam University of Applied Sciences,http://www.rotterdamuas.com/,https://ror.org/0481e1q24,Netherlands,Rotterdam,51.910159,4.46254,false
+boskalis-netherlands,Boskalis (Netherlands),https://boskalis.com//,https://ror.org/01w4ggt72,Netherlands,Papendrecht,51.824408,4.729285,false
+university-of-limerick,University of Limerick,http://www.ul.ie/,https://ror.org/00a0n9e72,Ireland,Limerick,52.66472,-8.62306,false
+huisman-netherlands,Huisman (Netherlands),http://www.huismanequipment.com/,https://ror.org/0372zyg05,Netherlands,Schiedam,51.90776,4.38267,false
+the-alan-turing-institute,The Alan Turing Institute,https://www.turing.ac.uk,https://ror.org/035dkdb55,United Kingdom,London,51.50853,-0.12574,true
+european-molecular-biology-laboratory,European Molecular Biology Laboratory,http://www.embl-hamburg.de/,https://ror.org/050589e39,Germany,Hamburg,53.55073,9.99302,false
+centre-for-research-and-technology-hellas,Centre for Research and Technology Hellas,http://www.certh.gr/root.en.aspx,https://ror.org/03bndpq63,Greece,Thessaloniki,40.64361,22.93086,false
+carbon-portal,Carbon Portal,https://www.icos-cp.eu,null,null,null,null,null,false
+ocean-thematic-centre,Ocean Thematic Centre,https://www.icos-otc.org/,null,null,null,null,null,false
+ecosystem-thematic-centre,Ecosystem Thematic Centre,http://www.icos-etc.eu/,null,null,null,null,null,false
+atmosphere-thematic-centre,Atmosphere Thematic Centre,https://icos-atc.lsce.ipsl.fr/,null,null,null,null,null,false
+icos-central-analytical-laboratories,Central Analytical Laboratories,https://www.icos-cal.eu/,null,null,null,null,null,false
+universitat-greifswald,Universität Greifswald,https://www.uni-greifswald.de,https://ror.org/00r1edq15,Germany,Greifswald,54.09311,13.38786,false
+naco,NaCo,https://naco.liacs.nl/,null,null,null,null,null,false
+enexis,Enexis,https://www.enexis.nl/,null,null,null,null,null,false
+openaire-non-profit-civil-partnership,OpenAIRE Non-Profit Civil Partnership,https://www.openaire.eu,https://ror.org/019kf3481,Greece,Marousi,38.05,23.8,false
+gemeente-groningen,Gemeente Groningen,https://gemeente.groningen.nl/,null,null,null,null,null,false
+powerchainger,PowerChainger,https://www.powerchainger.nl/,null,null,null,null,null,false
+quomare,QuoMare,https://www.quomare.com/,null,null,null,null,null,false
+province-zuid-holland,Province Zuid-Holland,https://www.zuid-holland.nl/,null,null,null,null,null,false
+clingendael-international-energy-programme,Clingendael International Energy Programme,https://www.clingendaelenergy.com/,null,null,null,null,null,false
+nouryon,Nouryon,https://www.nouryon.com/,null,null,null,null,null,false
+oci-nitrogen,OCI Nitrogen,http://ocinitrogen.com/,null,null,null,null,null,false
+integrated-carbon-observation-system,Integrated Carbon Observation System,https://www.icos-ri.eu/,https://ror.org/01d0fc168,Finland,Helsinki,60.204638,24.961622,true
+mcmaster-university,McMaster University,http://www.mcmaster.ca/,https://ror.org/02fa3aq29,Canada,Hamilton,43.25011,-79.84963,true
+university-of-salento,University of Salento,https://www.unisalento.it/web/guest/home_page,https://ror.org/03fc1k060,Italy,Lecce,40.35481,18.17244,false
+university-of-padua,University of Padua,https://www.unipd.it/en/,https://ror.org/00240q980,Italy,Padua,45.40797,11.88586,false
+european-organization-for-nuclear-research,European Organization for Nuclear Research,http://home.web.cern.ch/,https://ror.org/01ggx4157,Switzerland,Geneva,46.20222,6.14569,false
+ska-observatory,SKA Observatory,https://www.skaobservatory.org/,https://ror.org/01pwgd096,United Kingdom,Macclesfield,53.234487,-2.304262,false
+universidad-politecnica-de-madrid,Universidad Politécnica de Madrid,http://www.upm.es,https://ror.org/03n6nwv02,Spain,Madrid,40.4165,-3.70256,false
+hanze-university-of-applied-sciences,Hanze University of Applied Sciences,https://www.hanze.nl/eng,https://ror.org/00xqtxw43,Netherlands,Groningen,53.21917,6.56667,false
+international-institute-of-social-history,International Institute of Social History,https://socialhistory.org/en,https://ror.org/05dq4pp56,Netherlands,Amsterdam,52.369006,4.93949,false
+athena-research-and-innovation-center-in-information-communication-knowledge-technologies,Athena Research and Innovation Center In Information Communication & Knowledge Technologies,https://www.athenarc.gr/en/home,https://ror.org/0576by029,Greece,Marousi,38.05,23.8,false
+4tu,4TU,https://www.4tu.nl,https://ror.org/03rsncr94,Netherlands,Delft,52.00667,4.35556,false
+university-of-stuttgart,University of Stuttgart,http://www.uni-stuttgart.de/home/index.en.html,https://ror.org/04vnq7t77,Germany,Stuttgart,48.78232,9.17702,true
+dow-chemical-netherlands,Dow Chemical (Netherlands),http://www.dow.com/,https://ror.org/049px0x49,Netherlands,Terneuzen,51.332583,3.832487,false
+ing-bank,ING Bank,http://www.ing.com/en.htm,https://ror.org/059et9981,Netherlands,Amsterdam,52.350636,4.879307,false
+port-of-rotterdam-authority,Port of Rotterdam Authority,https://www.portofrotterdam.com/en,https://ror.org/05rzqb565,Netherlands,Rotterdam,51.904919,4.484504,false
+university-of-ulster,University of Ulster,http://www.ulster.ac.uk/,https://ror.org/01yp9g959,United Kingdom,Coleraine,55.13333,-6.66667,false
+lablicate,Lablicate,https://lablicate.com/,null,null,null,null,null,false
+national-institute-of-science-and-technology-for-software-engineering,National Institute of Science and Technology for Software Engineering,http://www.ines.org.br/,https://ror.org/00c70d758,Brazil,Cachoeirinha,-6.114408,-47.765879,false
+good-food-institute,Good Food Institute,https://gfi.org,null,null,null,null,null,false
+office-of-science,Office of Science,https://www.energy.gov/science/office-science,https://ror.org/00mmn6b08,United States,Washington,38.89511,-77.03637,false
+heidelberg-university,Heidelberg University,http://www.uni-heidelberg.de/index_e.html,https://ror.org/038t36y30,Germany,Heidelberg,49.40768,8.69079,false
+research-institute-for-sustainability-helmholtz-centre-potsdam,Research Institute For Sustainability – Helmholtz Centre Potsdam,http://www.rifs-potsdam.de,https://ror.org/01vvnmw35,Germany,Potsdam,52.39886,13.06566,false
+institut-catala-de-ciencies-del-clima,Institut Català de Ciències del Clima,http://www.ic3.cat/,https://ror.org/01bpa4157,Spain,Barcelona,41.38879,2.15899,false
+institute-of-world-economy-and-international-relations,Institute of World Economy and International Relations,http://www.imemo.ru/en,https://ror.org/04jqmw447,Russia,Moscow,55.674734,37.561162,false
+havstovan,Havstovan,http://www.hav.fo/index.php?option=com_content&view=article&id=273&Itemid=265,https://ror.org/034thfr92,Faroe Islands,Tórshavn,62.00587,-6.779773,false
+national-centre-of-scientific-research-demokritos,"National Centre of Scientific Research ""Demokritos"";https://www.demokritos.gr;https://ror.org/038jp4m40;Greece;Athens;37.98376;23.72784;;false;
+centre-europeen-de-recherche-et-de-formation-avancee-en-calcul-scientifique;""Centre Européen de Recherche et de Formation Avancée en Calcul Scientifique",http://www.cerfacs.fr/,https://ror.org/02dzbc556,France,Toulouse,43.60426,1.44367,false
+flemish-institute-for-technological-research,Flemish Institute for Technological Research,https://vito.be/en,https://ror.org/04gq0w522,Belgium,Mol,51.19188,5.11662,false
+canada-foundation-for-innovation,Canada Foundation for Innovation,http://www.innovation.ca/,https://ror.org/000az4664,Canada,Ottawa,45.420441,-75.701319,false
+university-of-prince-edward-island,University of Prince Edward Island,http://home.upei.ca/,https://ror.org/02xh9x144,Canada,Charlottetown,46.257178,-63.139213,false
+ocean-networks-canada-society,Ocean Networks Canada Society,http://www.oceannetworks.ca/,https://ror.org/05gknh003,Canada,Victoria,48.4359,-123.35155,false
+eu-horizon-2020,EU Horizon 2020,null,https://ror.org/019w4f821,Belgium,Brussels,50.85045,4.34878,false
+university-of-helsinki,University of Helsinki,https://www.helsinki.fi/,https://ror.org/040af2s02,Finland,Helsinki,60.16952,24.93545,false
+centre-national-de-recherches-meteorologiques,Centre National de Recherches Météorologiques,http://www.umr-cnrm.fr/?lang=fr,https://ror.org/004rej139,France,Toulouse,43.57524,1.372572,false
+vtt-technical-research-centre-of-finland,VTT Technical Research Centre of Finland,http://www.vttresearch.com/,https://ror.org/04b181w54,Finland,Espoo,60.2052,24.6522,false
+kws,KWS,null,https://ror.org/02p9c1e58,Germany,Einbeck,51.815651,9.884588,false
+basf,BASF,null,https://ror.org/00sgajx84,Netherlands,Utrecht,52.07426,5.055087,false
+helmholtz-centre-potsdam-gfz-german-research-centre-for-geosciences,Helmholtz Centre Potsdam - GFZ German Research Centre for Geosciences,http://www.gfz-potsdam.de/en/home/,https://ror.org/04z8jg394,Germany,Potsdam,52.39886,13.06566,false
+university-of-cyprus,University of Cyprus,http://www.ucy.ac.cy/en/,https://ror.org/02qjrjx09,Cyprus,Nicosia,35.17531,33.3642,false
+cnr-isac,CNR-ISAC,https://www.isac.cnr.it,https://ror.org/00n8ttd98,Italy,Bologna,44.52224,11.338353,false
+netherlands-escience-center,Netherlands eScience Center,https://www.esciencecenter.nl/,https://ror.org/00rbjv475,Netherlands,Amsterdam,52.37403,4.88969,true
+geomar-helmholtz-centre-for-ocean-research-kiel,GEOMAR Helmholtz Centre for Ocean Research Kiel,http://www.geomar.de/en/,https://ror.org/02h2x0161,Germany,Kiel,54.32133,10.13489,false
+german-marine-research-consortium,German Marine Research Consortium,http://www.deutsche-meeresforschung.de/en/,https://ror.org/02knxrg60,Germany,Berlin,52.513504,13.393288,false
+icons,iCons,http://www.icons.it/,https://ror.org/037hryt76,Italy,Castelnuovo Bocca d'Adda,45.649387,9.204827,false
+elixir,ELIXIR,https://elixir-europe.org,https://ror.org/044rwnt51,United Kingdom,Hinxton,52.08529,0.18198,false
+unilever,Unilever,null,https://ror.org/02436cs38,Netherlands,Rotterdam,51.914481,4.503732,false
+university-medical-center-groningen,University Medical Center Groningen,null,https://ror.org/03cv38k47,Netherlands,Groningen,53.222794,6.574039,false
+royal-netherlands-academy-of-arts-and-sciences,Royal Netherlands Academy of Arts and Sciences,null,https://ror.org/043c0p156,Netherlands,Amsterdam,52.37403,4.88969,false
+institute-for-atomic-and-molecular-physics,Institute for Atomic and Molecular Physics,http://www.amolf.nl/,https://ror.org/038x9td67,Netherlands,Amsterdam,52.356559,4.948785,false
+usp-floss-competence-center,USP FLOSS Competence Center,http://ccsl.ime.usp.br,null,null,null,null,null,false
+netherlands-institute-for-space-research,SRON Netherlands Institute for Space Research,https://www.sron.nl/,https://ror.org/02wc0kq10,Netherlands,Utrecht,52.09083,5.12222,true
+netherlands-environmental-assessment-agency,Netherlands Environmental Assessment Agency,http://www.pbl.nl/en/,https://ror.org/052x1hs80,Netherlands,The Hague,52.07667,4.29861,false
+meertens-institute,Meertens Institute,http://www.meertens.knaw.nl,https://ror.org/05kaxyq51,Netherlands,Amsterdam,52.331945,4.914582,false
+prins-bernhard-cultuurfonds,Prins Bernhard Cultuurfonds,https://www.cultuurfonds.nl/,https://ror.org/05j159997,Netherlands,Amsterdam,52.365088,4.891595,false
+norwegian-institute-of-marine-research,Norwegian Institute of Marine Research,http://www.imr.no/en,https://ror.org/05vg74d16,Norway,Bergen,60.39299,5.32415,false
+uni-research-norway,Uni Research (Norway),http://uni.no/en/,https://ror.org/016tr2j79,Norway,Bergen,60.384377,5.333241,false
+university-of-granada,University of Granada,https://www.ugr.es,https://ror.org/04njjy449,Spain,Granada,37.18817,-3.60667,false
+swedish-meteorological-and-hydrological-institute,Swedish Meteorological and Hydrological Institute,https://www.smhi.se/en,https://ror.org/00hgzve81,Sweden,Norrköping,58.59419,16.1826,false
+uk-research-and-innovation,UK Research and Innovation,https://www.ukri.org/,https://ror.org/001aqnf71,United Kingdom,Swindon,51.55797,-1.78116,false
+university-of-manchester,University of Manchester,http://www.manchester.ac.uk/,https://ror.org/027m9bs27,United Kingdom,Manchester,53.48095,-2.23743,false
+electricity-supply-board-ireland,Electricity Supply Board (Ireland),https://www.esb.ie/,https://ror.org/03hs0j596,Ireland,Dublin,53.337541,-6.248023,false
+gsi-helmholtz-centre-for-heavy-ion-research,GSI Helmholtz Centre for Heavy Ion Research,https://www.gsi.de/,https://ror.org/02k8cbn47,Germany,Darmstadt,49.87167,8.65027,true
+university-of-california-san-diego,"University of California, San Diego",http://ucsd.edu/,https://ror.org/0168r3w48,United States,San Diego,32.71571,-117.16472,false
+anton-de-kom-university-of-suriname,Anton de Kom University of Suriname,http://www.uvs.edu/,https://ror.org/02m8qhj08,Suriname,Paramaribo,5.813521,-55.217275,false
+institute-for-sustainable-process-technology,Institute for Sustainable Process Technology,http://www.ispt.eu/,https://ror.org/05nqm0q11,Netherlands,Amersfoort,52.151954,5.363968,false
+stockholm-university,Stockholm University,https://www.su.se,https://ror.org/05f0yaq80,Sweden,Stockholm,59.32938,18.06871,false
+ersilia-open-source-initiative,Ersilia Open Source Initiative,https://www.ersilia.io,https://ror.org/019wm1d19,Spain,Barcelona,41.38879,2.15899,false
+university-of-california-riverside,"University of California, Riverside",https://www.ucr.edu,https://ror.org/03nawhv43,United States,Riverside,33.95335,-117.39616,false
+european-commission,European Commission,http://ec.europa.eu/index_en.htm,https://ror.org/00k4n6c32,Belgium,Brussels,50.85045,4.34878,false
+hasselt-university,Hasselt University,http://www.uhasselt.be/en,https://ror.org/04nbhqj75,Belgium,Hasselt,50.93106,5.33781,true
+cwts,Centre for Science and Technology Studies (CWTS),https://www.cwts.nl,null,null,null,null,null,true
+fast-data-science-ltd,Fast Data Science Ltd,https://fastdatascience.com/,null,null,null,null,null,false
