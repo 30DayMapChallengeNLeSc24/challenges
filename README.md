@@ -4,7 +4,7 @@ As [eScience Center](https://www.esciencecenter.nl/) we decided to solely work w
 
 Below an overview of the various categories of the Challenge for 2024. 
 
-We will try to get as much maps as possible ;-)
+We will try to get as much maps as possible !!!
 
 |link| Date       | Name                  | Description                                                                                                                                                                                                                                                                           | Project| RSD link | Description | Status | Person |
 |-----|------------|-----------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| -------| -------| -------| -------| -------|
