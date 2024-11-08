@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Celestial Spiral with Coastline</title>
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+  </head>
+  <body>
+    <svg width="800" height="800" id="map"></svg>
+    <div class="tooltip" id="tooltip" style="opacity: 0"></div>
+    <!-- Tooltip div -->
+    <script>
+      // Define dimensions
+      const width = 800;
+      const height = 800;
+      const turns = 5; // Number of spiral turns
+
+      // Function to convert lat/lon to spiral coordinates
+      //   function latlonToSpiral(lat, lon, turns = 1) {
+      //     const r = (90 - Math.abs(lat)) / 90;
+      //     const theta = (lon * Math.PI) / 180 + turns * 2 * Math.PI * r;
+      //     const x = width / 2 + ((r * width) / 2) * Math.cos(theta);
+      //     const y = height / 2 + ((r * height) / 2) * Math.sin(theta);
+      //     return { x, y };
+      //   }
+
+      function latlonToSpiral(lat, lon, turns = -0.5) {
+        const r = (1 - Math.sin((lat * Math.PI) / 180)) / 2;
+        const theta = (lon * Math.PI) / 180 + turns * 2 * Math.PI * r;
+        const x = width / 2 + ((r * width) / 2) * Math.cos(theta);
+        const y = height / 2 + ((r * height) / 2) * Math.sin(theta);
+        return { x, y };
+      }
+
+      // Inverse function to convert spiral coordinates back to lat/lon
+      function spiralToLatLon(x, y, turns = 5) {
+        const dx = x - width / 2;
+        const dy = y - height / 2;
+        const r = Math.sqrt(dx * dx + dy * dy) / (width / 2);
+        const theta = Math.atan2(dy, dx);
+
+        // Calculate latitude based on the updated formula
+        const lat = Math.asin(1 - 2 * r) * (180 / Math.PI);
+        const lon = (((theta - turns * 2 * Math.PI * r) * 180) / Math.PI) % 360;
+        return { lat: lat.toFixed(2), lon: lon.toFixed(2) };
+      }
+
+      // Load GeoJSON data and plot coastlines
+      d3.json("./ne_110m_coastline.geojson").then((geoData) => {
+        const svg = d3.select("#map");
+
+        // Draw each coastline as a line in the spiral projection
+        geoData.features.forEach((feature) => {
+          const coordinates = feature.geometry.coordinates;
+          const pathData = coordinates.map((point) => {
+            const [lon, lat] = point;
+            const { x, y } = latlonToSpiral(lat, lon);
+            return [x, y];
+          });
+
+          // Draw the path in the spiral projection
+          svg
+            .append("path")
+            .datum(pathData)
+            .attr("d", d3.line()(pathData))
+            .attr("stroke", "black")
+            .attr("stroke-width", 0.5)
+            .attr("fill", "none");
+        });
+
+        // Plot example data points
+        const dataPoints = [
+          { lat: 37.7749, lon: -122.4194, label: "San Francisco" },
+          { lat: 51.5074, lon: -0.1278, label: "London" },
+          { lat: -33.8688, lon: 151.2093, label: "Sydney" },
+        ];
+
+        dataPoints.forEach((point) => {
+          const { x, y } = latlonToSpiral(point.lat, point.lon);
+          svg
+            .append("circle")
+            .attr("cx", x)
+            .attr("cy", y)
+            .attr("r", 5)
+            .attr("fill", "red");
+          svg
+            .append("text")
+            .attr("x", x)
+            .attr("y", y - 10)
+            .text(point.label)
+            .attr("text-anchor", "middle")
+            .attr("fill", "blue");
+        });
+
+        // Tooltip element
+        const tooltip = d3.select("#tooltip");
+
+        // Add mousemove event to show tooltip with coordinates
+        svg.on("mousemove", (event) => {
+          const [mouseX, mouseY] = d3.pointer(event);
+
+          // Convert mouse x, y to latitude and longitude using inverse function
+          const { lat, lon } = spiralToLatLon(mouseX, mouseY);
+
+          // Display the tooltip with latitude and longitude
+          tooltip
+            .style("opacity", 1)
+            .style("left", `${mouseX + 15}px`)
+            .style("top", `${mouseY + 15}px`)
+            .html(`Lat: ${lat}, Lon: ${lon}`);
+        });
+
+        // Hide tooltip on mouseout
+        svg.on("mouseout", () => {
+          tooltip.style("opacity", 0);
+        });
+      });
+    </script>
+  </body>
+</html>
