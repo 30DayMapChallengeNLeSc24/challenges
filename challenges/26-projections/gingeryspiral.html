@@ -39,17 +39,16 @@
     <svg id="map" width="960" height="600"></svg>
     <script type="module">
       import * as d3 from "https://cdn.jsdelivr.net/npm/d3@7/+esm";
-      import { geoGingery } from "https://cdn.skypack.dev/d3-geo-projection@4";
-      const projection = geoGingery();
+      //   import { geoGingery } from "https://cdn.skypack.dev/d3-geo-projection@4";
+      import gingery from "./gingery.js";
+      //   const projection = geoGingery().rotate([0, -90]);
 
       // Set up the SVG container
       var width = 960;
       var height = 600;
 
       var svg = d3.select("svg");
-
-      // Create the custom projection
-      //   var projection = gingerySpiralProjection();
+      var projection = gingery().rotate([0, -90]);
 
       // Create a path generator with the custom projection
       var graticule = d3.geoGraticule();
