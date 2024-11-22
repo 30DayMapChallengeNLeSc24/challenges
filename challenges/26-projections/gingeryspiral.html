@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <script src="//d3js.org/topojson.v1.min.js"></script>
+    <title>Custom Gingery-Spiral Projection Map</title>
+    <style>
+      .stroke {
+        fill: none;
+        stroke: #000;
+        stroke-width: 3px;
+      }
+
+      .fill {
+        fill: #fff;
+      }
+
+      .graticule {
+        fill: none;
+        stroke: #777;
+        stroke-width: 0.5px;
+        stroke-opacity: 0.5;
+      }
+
+      .land {
+        fill: #222;
+      }
+
+      .boundary {
+        fill: none;
+        stroke: #fff;
+        stroke-width: 0.5px;
+      }
+    </style>
+  </head>
+
+  <body>
+    <svg id="map" width="960" height="600"></svg>
+    <script type="module">
+      import * as d3 from "https://cdn.jsdelivr.net/npm/d3@7/+esm";
+      import { geoGingery } from "https://cdn.skypack.dev/d3-geo-projection@4";
+      const projection = geoGingery();
+
+      // Set up the SVG container
+      var width = 960;
+      var height = 600;
+
+      var svg = d3.select("svg");
+
+      // Create the custom projection
+      //   var projection = gingerySpiralProjection();
+
+      // Create a path generator with the custom projection
+      var graticule = d3.geoGraticule();
+      var path = d3.geoPath().projection(projection);
+
+      // Add sphere to clip the map
+      var defs = svg.append("defs");
+      defs
+        .append("path")
+        .datum({ type: "Sphere" })
+        .attr("id", "sphere")
+        .attr("d", path);
+      defs
+        .append("clipPath")
+        .attr("id", "clip")
+        .append("use")
+        .attr("xlink:href", "#sphere");
+
+      svg.append("use").attr("class", "stroke").attr("xlink:href", "#sphere");
+      svg.append("use").attr("class", "fill").attr("xlink:href", "#sphere");
+
+      svg
+        .append("path")
+        .datum(graticule)
+        .attr("class", "graticule")
+        .attr("clip-path", "url(#clip)")
+        .attr("d", path);
+
+      // Load and display the world map
+      d3.json("./world-110m.json").then(function (world) {
+        svg
+          .append("path")
+          .datum(topojson.feature(world, world.objects.countries))
+          .attr("d", path)
+          .attr("fill", "#cccccc")
+          .attr("stroke", "#000000")
+          .attr("clip-path", "url(#clip)");
+      });
+    </script>
+  </body>
+</html>
