@@ -22,7 +22,8 @@ export function gingeryRaw(rho, n) {
     rho2 = rho * rho;
 
   function forward(lambda, phi) {
-    var p = d3.geoAzimuthalEquidistantRaw(lambda, phi),
+    const lambdaTwisted = lambda + 0.3 * pi * phi;
+    var p = d3.geoAzimuthalEquidistantRaw(lambdaTwisted, phi),
       x = p[0],
       y = p[1],
       r2 = x * x + y * y;
@@ -58,55 +59,55 @@ export function gingeryRaw(rho, n) {
     return p;
   }
 
-  forward.invert = function (x, y) {
-    var r2 = x * x + y * y;
-    if (r2 > rho2) {
-      var r = sqrt(r2),
-        theta = atan2(y, x),
-        theta0 = k * round(theta / k),
-        dTheta = theta - theta0;
+  //   forward.invert = function (x, y) {
+  //     var r2 = x * x + y * y;
+  //     if (r2 > rho2) {
+  //       var r = sqrt(r2),
+  //         theta = atan2(y, x),
+  //         theta0 = k * round(theta / k),
+  //         dTheta = theta - theta0;
 
-      x = r * cos(dTheta);
-      y = r * sin(dTheta);
+  //       x = r * cos(dTheta);
+  //       y = r * sin(dTheta);
 
-      var x_halfPi = x - halfPi,
-        sinx = sin(x),
-        alpha = y / sinx,
-        delta = x < halfPi ? Infinity : 0,
-        i = 10;
+  //       var x_halfPi = x - halfPi,
+  //         sinx = sin(x),
+  //         alpha = y / sinx,
+  //         delta = x < halfPi ? Infinity : 0,
+  //         i = 10;
 
-      while (true) {
-        var rhosinAlpha = rho * sin(alpha),
-          rhoCosAlpha = rho * cos(alpha),
-          sinRhoCosAlpha = sin(rhoCosAlpha),
-          halfPi_RhoCosAlpha = halfPi - rhoCosAlpha,
-          k_ = (rhosinAlpha - alpha * sinRhoCosAlpha) / halfPi_RhoCosAlpha,
-          s_ = gingeryLength(alpha, k_);
+  //       while (true) {
+  //         var rhosinAlpha = rho * sin(alpha),
+  //           rhoCosAlpha = rho * cos(alpha),
+  //           sinRhoCosAlpha = sin(rhoCosAlpha),
+  //           halfPi_RhoCosAlpha = halfPi - rhoCosAlpha,
+  //           k_ = (rhosinAlpha - alpha * sinRhoCosAlpha) / halfPi_RhoCosAlpha,
+  //           s_ = gingeryLength(alpha, k_);
 
-        if (abs(delta) < epsilon2 || !--i) break;
+  //         if (abs(delta) < epsilon2 || !--i) break;
 
-        alpha -= delta =
-          (alpha * sinx - k_ * x_halfPi - y) /
-          (sinx -
-            (x_halfPi *
-              2 *
-              (halfPi_RhoCosAlpha *
-                (rhoCosAlpha +
-                  alpha * rhosinAlpha * cos(rhoCosAlpha) -
-                  sinRhoCosAlpha) -
-                rhosinAlpha * (rhosinAlpha - alpha * sinRhoCosAlpha))) /
-              (halfPi_RhoCosAlpha * halfPi_RhoCosAlpha));
-      }
-      r =
-        rho +
-        (gingeryIntegrate(s_, rhoCosAlpha, x) * (pi - rho)) /
-          gingeryIntegrate(s_, rhoCosAlpha, pi);
-      theta = theta0 + alpha;
-      x = r * cos(theta);
-      y = r * sin(theta);
-    }
-    return azimuthalEquidistantRaw.invert(x, y);
-  };
+  //         alpha -= delta =
+  //           (alpha * sinx - k_ * x_halfPi - y) /
+  //           (sinx -
+  //             (x_halfPi *
+  //               2 *
+  //               (halfPi_RhoCosAlpha *
+  //                 (rhoCosAlpha +
+  //                   alpha * rhosinAlpha * cos(rhoCosAlpha) -
+  //                   sinRhoCosAlpha) -
+  //                 rhosinAlpha * (rhosinAlpha - alpha * sinRhoCosAlpha))) /
+  //               (halfPi_RhoCosAlpha * halfPi_RhoCosAlpha));
+  //       }
+  //       r =
+  //         rho +
+  //         (gingeryIntegrate(s_, rhoCosAlpha, x) * (pi - rho)) /
+  //           gingeryIntegrate(s_, rhoCosAlpha, pi);
+  //       theta = theta0 + alpha;
+  //       x = r * cos(theta);
+  //       y = r * sin(theta);
+  //     }
+  //     return azimuthalEquidistantRaw.invert(x, y);
+  //   };
 
   return forward;
 }
@@ -140,17 +141,17 @@ export default function () {
     cr = -cos(epsilon * radians),
     sr = sin(epsilon * radians);
 
-  p.radius = function (_) {
-    if (!arguments.length) return rho * degrees;
-    cRho = cos((rho = _ * radians));
-    sRho = sin(rho);
-    return m(rho, n);
-  };
+  //   p.radius = function (_) {
+  //     if (!arguments.length) return rho * degrees;
+  //     cRho = cos((rho = _ * radians));
+  //     sRho = sin(rho);
+  //     return m(rho, n);
+  //   };
 
-  p.lobes = function (_) {
-    if (!arguments.length) return n;
-    return m(rho, (n = +_));
-  };
+  //   p.lobes = function (_) {
+  //     if (!arguments.length) return n;
+  //     return m(rho, (n = +_));
+  //   };
 
   p.stream = function (stream) {
     var rotate = p.rotate(),
@@ -175,7 +176,7 @@ export default function () {
   };
 
   return p
-    .rotate([90, -40])
+    .rotate([0, 90])
     .scale(91.7095)
     .clipAngle(180 - 1e-3);
 }
